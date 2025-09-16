@@ -45,8 +45,8 @@ Test the model with new sample data for prediction.
 
 ## PROGRAM
 
-### Name: BALASUBRAMANIAM L
-### Register Number: 212224240020
+### Name: JENITTAN JOSE JB
+### Register Number: 212224240063
 
 ```python
 import torch
